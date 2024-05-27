@@ -1,0 +1,52 @@
+grep -Ei '\.access|\.acgi|\.action|\.add|\.adp|\.ai|\.ajax|\.alt|\.app|\.apsx|\.aquery|\.asax|\.asc|\.ascx|\.asf|\.ashx|\.asm|\.asmx|\.asp|\.Asp|\.ASP|\.aspx|\.Aspx|\.ASPX|\.assets|\.asx|\.at|\.au|\.avi|\.AVI|\.awm|\.back|\.backup|\.bad|\.bak|\.BAK|\.bak2|\.bat|\.bck|\.bhtml|\.bin|\.bk|\.bkp|\.blog|\.bml|\.bmp|\.bok|\.bsp|\.btr|\.bu|\.bz2|\.ca|\.cab|\.cache|\.captcha|\.cat|\.cc|\.cdr|\.cer|\.cfc|\.cfg|\.cfm|\.CFM|\.cfml|\.cgi|\.chm|\.class|\.cmd|\.cms|\.cn|\.cnf|\.code|\.common|\.conf|\.config|\.Config|\.contrib|\.copy|\.core|\.count|\.cp|\.crt|\.csi|\.csp|\.csv|\.cur|\.custom|\.cz|\.dat|\.data|\.db|\.dbf|\.dcr|\.de|\.deb|\.default|\.delete|\.detail|\.details|\.dev|\.dhtml|\.dic|\.dict|\.diff|\.dir|\.disabled|\.dist|\.divx|\.djvu|\.dll|\.dmg|\.do|\.doc|\.DOC|\.docx|\.dot|\.ds|\.dta|\.dtd|\.dwf|\.dwg|\.dwt|\.ece|\.edit|\.edu|\.egov|\.eml|\.enu|\.env|\.eot|\.ep|\.epc|\.epl|\.eps|\.epub|\.err|\.error|\.errors|\.exclude|\.extract|\.f4v|\.faces|\.fcgi|\.feed|\.fil|\.file|\.filemtime|\.files|\.filesize|\.film|\.fla|\.flv|\.fopen|\.form|\.fpl|\.fr|\.framework|\.fread|\.fsockopen|\.functions|\.geo|\.getimagesize|\.GetMapImage|\.git|\.go|\.gpx|\.grp|\.gz|\.hqx|\.ht|\.hta|\.htaccess|\.htc|\.htm|\.HTM|\.Html|\.HTML|\.html1|\.htmll|\.htmls|\.htx|\.ice|\.ics|\.ida|\.idq|\.idx|\.ihtml|\.implode|\.inc|\.include|\.includes|\.index|\.inf|\.info|\.ini|\.iso|\.it|\.jad|\.jar|\.java|\.jbf|\.jhtml|\.jnlp|\.js|\.JS|\.js2|\.jsf|\.json|\.jsp|\.jspa|\.jspf|\.jspx|\.kml|\.kmz|\.lasso|\.layer|\.lbi|\.lck|\.LCK|\.lib|\.lic|\.licx|\.link|\.list|\.lnk|\.load|\.local|\.lock|\.log|\.LOG|\.lst|\.m3u|\.m4v|\.main|\.maninfo|\.map|\.master|\.Master|\.mbox|\.mdb|\.media|\.menu|\.mgi|\.mhtml|\.mi|\.mid|\.min|\.mkdir|\.mno|\.mod|\.mov|\.MOV|\.mpl|\.msg|\.msi|\.mso|\.mspx|\.mv|\.mvc|\.mysql|\.nl|\.nsf|\.NSF|\.num|\.ocx|\.odt|\.off|\.ogg|\.old|\.OLD|\.old2|\.opendir|\.opml|\.orig|\.original|\.oui|\.out|\.pac|\.pad|\.page|\.PAGE|\.pages|\.parse|\.pd|\.pdb|\.pdf|\.Pdf|\.PDF|\.pem|\.pfx|\.pgp|\.pgsql|\.pgt|\.php|\.PhP|\.php|\.php2|\.php3|\.php4|\.php5|\.phpmailer|\.phpp|\.phps|\.phtm|\.phtml|\.pl|\.plx|\.pm|\.portal|\.pot|\.pps|\.ppt|\.PPT|\.pptx|\.prep|\.preview|\.prg|\.price|\.print|\.process|\.prt|\.ps|\.psd|\.psp|\.psql|\.pub|\.pvk|\.pwd|\.py|\.pyc|\.query|\.ra|\.ram|\.rar|\.raw|\.rb|\.rc|\.rdf|\.read|\.readme|\.rec|\.red|\.reg|\.require|\.results|\.resx|\.rhtml|\.rm|\.rpm|\.rss|\.rtf|\.ru|\.run|\.Run|\.s7|\.sample|\.sav|\.save|\.scc|\.scripts|\.sdb|\.se|\.sea|\.seam|\.search|\.sema|\.ser|\.server|\.session|\.settings|\.setup|\.sh|\.shop|\.shtm|\.shtml|\.sis|\.sit|\.site|\.sitemap|\.sitx|\.Skins|\.sln|\.smi|\.smil|\.smtp|\.sql|\.squery|\.src|\.srv|\.ssf|\.ssi|\.start|\.static|\.ste|\.stm|\.store|\.strpos|\.suo|\.svn|\.swi|\.swp|\.sxw|\.taf|\.tar|\.tcl|\.tem|\.temp|\.template|\.templates|\.Templates|\.test|\.text|\.tgz|\.thtml|\.tif|\.tiff|\.tmp|\.tmpl|\.top|\.torrent|\.tpl|\.trck|\.ttf|\.TTF|\.tv|\.txt|\.TXT|\.types|\.ua|\.uk|\.url|\.us|\.user|\.v|\.vb|\.vbproj|\.vbs|\.vcf|\.vcs|\.view|\.vm|\.vorteil|\.vspscc|\.war|\.wav|\.WAV|\.wbp|\.webinfo|\.wma|\.wmf|\.wml|\.wmv|\.WMV|\.woa|\.wpd|\.ws|\.wsdl|\.wvx|\.wws|\.xhtm|\.xhtml|\.xls|\.XLS|\.xlsx|\.xml|\.XML|\.xpi|\.xpml|\.xsd|\.xsl|\.xslt|\.xspf|\.zdat|\.Zif|\.zip|\.Zip|\.ZIP|\.phar|\.php7|\.pht|\.phP|\.aac|\.abw|\.arc|\.avif|\.azw|\.bz|\.cda|\.csh|\.jsonld|\.mid|\.midi|\.mjs|\.mpkg|\.odp|\.ods|\.oga|\.ogv|\.ogx|\.opus|\.otf|\.tif|\.ts|\.vsd|\.weba|\.webm|\.webp|\.xul|\.3gp|\.3g2|\.7z|\.asp|\.aspx|\.back|\.backup|\.bak|\.bakup|\.bas|\.bat|\.bz2|\.cfm|\.cgi|\.conf|\.copia|\.core|\.cpp|\.dat|\.db|\.default|\.dll|\.doc|\.exe|\|\gz|\|\htm|\.html|\.inc|\.ini|\.jar|\.java|\.jhtml|\.jsa|\.jsp|\.log|\.mdb|\.nsf|\.old|\.orig|\.pas|\.php|\.phtml|\.pl|\.rar|\.reg|\.sav|\.saved|\.sh|\.shtml|\.source|\.sql|\.src|\.stackdump|\.tar|\.tar.gz|\.temp|\.test|\.tgz|\.tmp|\.txt|\.war|\.xml|\.zip|\.backup|\.bck|\.old|\.save|\.bak|\.sav|\.copy|\.old|\.orig|\.tmp|\.txt|\.back'
+
+
+grep -Ei 'admin|api|portal|dash|dev|apikey|panel|internal|prod|test|token|passw|username|wp-json|keys|url=|aws_secret_key|heroku|firebase|swagger|secret|htaccess|.git|images|confidential|backup|syslog|root|api_hash|api_id|id|ganglia|aws_access_key|aws_secret_key|api key|passwd|pwd|heroku|slack|firebase|swagger|aws_secret_key|aws key|password|ftp password|jdbc|db|sql|secret jet|config|admin|pwd|json|gcp|htaccess|.env|ssh key|access key|secret token|oauth_token|oauth_token_secret|/main.js|/main.something.js'
+
+
+
+grep -Ei '/admin/.json|/system/console|/dav/crx.default|/crx|/bin/crxde/logs|/jcr:system/jcr:versionStorege.json|_jcr_system/jcr_versionStorage.json|/libs/wcm/core/content/siteadmin.html|/libs/cq/ui/content/dumplibs.html|/var/linkchecker.html|/etc/linkchecker.html|/home/users/a/admin/profile.json|/home/users/a/admin/profile.xml|/libs/cp/core/content/login.json|/content/../libs/foundation/components/text/text.jsp|/content/.{.}/libs/foundation/components/text/text.jsp|/apps/sling/config/org.apache.felix.webconsole.internal.servlet.OsgiManager.config/jcr%3acontent/jcr%3adata|/libs/foundation/components/primary/cq/workflow/conponents/participants/json.GET.servlet|/content.pages.json|/content.languages.json|/content.blueprint.json|/content.-1.json|/content.10.json|/content.infinity.json|/content.tidy.json|/content.tidy.-1.blubber.json|/content/dam.tidy.-100.json|/content/content/geometrixx.sitemap.txt|/content/add_valid_page.query.json?statement=|/content/add_valid_page.qu%65ry.js%6Fn?statement=|/etc.xml|/content.feed.xml|content.rss.xml|/content.feed.html|/content/add_valid_page.html?debug=layout|/projects|/tagging/|/etc/replication.html|/etc/cloudservices.html|/welcome'
+
+
+
+Google Dorks
+
+INURL
+
+​​inurl:conf | inurl:env | inurl:cgi | inurl:bin | inurl:etc | inurl:root | inurl:sql | inurl:backup | inurl:admin | inurl:php
+
+File Log
+​​​| confidential | “employee only” | proprietary | top secret | classified | trade secret | internal | private | WS_FTP | ws_ftp | log | LOG filetype:log
+
+Subdomain Takeovers
+
+intext:"PAGE NOT FOUND" | intext:"project not found" | intext:"Repository not found" | intext:"domain does not exist" | intext:"This page could not be found" | intext:"404 Blog is not found" | intext:"No settings were found for this company" | intext:"domain name is invalid"
+
+OpenRedirects
+
+inurl:redir | inurl:url | inurl:redirect | inurl:return | inurl:src=http | inurl:r=http | inurl:next= | inurl:ret= |
+
+Bug bounty Programs
+
+inurl:bounty "reward" "scope" "report" -yeswehack -hackerone -bugcrowd -synack -openbugbounty
+
+Sensitive Docs
+
+ext:txt | ext:pdf | ext:xml | ext:xls | ext:xlsx | ext:ppt | ext:pptx | ext:doc | ext:docx
+intext:“confidential” | intext:“Not for Public Release” | intext:”internal use only” | intext:“do not distribute”
+
+Errors
+
+inurl:"error" | intitle:"exception" | intitle:"failure" | intitle:"server at" | inurl:exception | "database error" | "SQL syntax" | "undefined index" | "unhandled exception" | "stack trace"
+
+Adobe Experience Manager
+
+inurl:/content/usergenerated | inurl:/content/dam | inurl:/jcr:content | inurl:/libs/granite | inurl:/etc/clientlibs | inurl:/content/geometrixx | inurl:/bin/wcm | inurl:/crx/de
+
+File Upload
+
+site:*.example.com intext:"choose file"
+
+Extensiones
+
+site:target[.]com ext:jsp | ext:asp | ext:aspx | ext:php| ext:pl | ext:cfm | ext:py | ext:rb | ext:log | ext:txt | ext:conf | ext:cnf | ext:ini | ext:env | ext:sh | ext:bak | ext:backup | ext:swp | ext:old | ext:~ | ext:git | ext:svn | ext:htpasswd | ext:htaccess 
