@@ -15,6 +15,11 @@ grep -Ei 'config\.js|env\.js|settings\.js|configurations\.js|app\.config\.js|dat
 
 grep -Ei 'config.json|credentials.json|secrets.json|users.json|tokens.json|payment_info.json|env.json|db_config.json|settings.json|apikeys.json|keys.json|auth.json|passwords.json|private.json|secure.json|access_tokens.json|session.json|security.json|connections.json|.env.json|configurations.json|database.json|firebase.json|aws-credentials.json|gcp-credentials.json|azure-credentials.json|oauth.json|auth0.json|service_account.json|cloud_config.json|integration.json|s3_config.json|ftp_config.json|smtp_config.json|mailgun.json|stripe.json|paypal.json|braintree.json|api_keys.json|auth_tokens.json|sensitive.json|confidential.json|keys_store.json|jwt.json|ldap.json|vault.json|appsettings.json|database_config.json|proxy_config.json|admin.json' 
 
+
+Dirsearch
+-e conf,config,bak,backup,swp,old,db,sql,asp,aspx,aspx~,py,rb,php,cache,cgi,csv,env,server,html,inc,jar,js,json,jsp,log,lock,rar,old,sql.gz,sql.zip,sql.rar.gz,swp,tar,tar.bz2,tar.gz,txt,zip,xml,htaccess
+
+
 Google Dorks
 
 Search for interesting words
